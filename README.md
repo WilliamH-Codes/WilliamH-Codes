@@ -3,7 +3,7 @@
 I’m a 23-year-old Computer Science grad from a small town, grinding my way into a Python dev career. Armed with a B.S. and a passion for coding, I’m here building web apps, tools, and whatever else I can dream up. My mission? Sharpen my skills, land a remote gig, and show the world what `WilliamH-Codes` can do.
 
 ## About Me
-- **Born**: 2002—Gen Z hustle, Gen X roots (shoutout to Dad!).
+- **Born**: 2002—Gen Z hustle, Gen X roots.
 - **Degree**: B.S. in Computer Science—book smarts meet real-world grit.
 - **Vibe**: Problem-solver, code tinkerer, and a sucker for a good challenge.
 - **Currently**: Coding daily, dodging meat department doom, and chasing dev dreams.
